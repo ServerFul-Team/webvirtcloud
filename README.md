@@ -8,12 +8,12 @@ WebVirtCloud is a web-based virtualization platform that allows users to manage 
 
 ## Ports ##
 
-Base: 80/443
-Api 8001/4001
-Assets 8002/4002
-Client 8003/4003
-Mange 8004/4004
-Console 8005/4005
+* Base: 80/443
+* Api 8001/4001
+* Assets 8002/4002
+* Client 8003/4003
+* Mange 8004/4004
+* Console 8005/4005
 
 ## Features ##
 
