@@ -6,6 +6,15 @@
 
 WebVirtCloud is a web-based virtualization platform that allows users to manage and create virtual machines on a remote server. You just need to install WebVirtCloud on a server or even your laptop or PC and you can use it to create, manage, and delete virtual machines. It is a self-hosted alternative to platforms like DigitalOcean, Linode, and Vultr.
 
+## Ports ##
+
+Base: 80/443
+Api 8001/4001
+Assets 8002/4002
+Client 8003/4003
+Mange 8004/4004
+Console 8005/4005
+
 ## Features ##
 
 * **User management**: WebVirtCloud allows you to create and manage users.
